@@ -4,6 +4,14 @@
     font-family: monospace;
 }
 
+.header{
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    background-color: #fff;
+    padding-top: 20px;
+    box-sizing: border-box;
+}
 .caja_posts{
     width: 400px;
     height: 300px;
